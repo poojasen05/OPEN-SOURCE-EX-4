@@ -48,5 +48,8 @@ groups harry
 ## OUTPUT:
 ![Screenshot](https://github.com/user-attachments/assets/bfe57e75-6a45-49c3-a248-d5283391f22b)
 
+---
+
+
 ## RESULT:
 The shared admin directory was successfully created with correct ownership and permissions, and group access was verified in the Red Hat Lab environment.
